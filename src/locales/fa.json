@@ -1,0 +1,48 @@
+{
+  "authModal": {
+    "login": "ورود",
+    "register": "ثبت نام",
+    "topTitle": "اکانت شما"
+  },
+  "header": {
+    "about": "درباره سایت",
+    "authBtn": "ورود / ثبت نام",
+    "logout": "خروج از حساب",
+    "manage": "مدیریت"
+  },
+  "homeView": {
+    "introductionMsg": "این یه پروژه ویو جی اس است توسط دانیال غلامی. زبان های استفاده شده در این پروژه: HTML، CSS، JS و همچنین از فریم ورک Vue JS بعنوان پایه ی کار استفاده شده است.",
+    "listen": "به موسیقی عالی گوش دهید!",
+    "songsHeader": "آهنگ ها"
+  },
+  "loginForm": {
+    "email": "ایمیل",
+    "password": "رمز عبور",
+    "submit": "ثبت"
+  },
+  "manageMusic": {
+    "mySongs": "آهنگ های من"
+  },
+  "registerForm": {
+    "TOS": "قوانین سایت",
+    "accept": "من {0} را می پذیرم",
+    "age": "سن",
+    "confPassword": "تکرار رمز عبور",
+    "country": "کشور",
+    "country_germany": "آلمان",
+    "country_iran": "ایران",
+    "country_mexico": "مکزیک",
+    "country_usa": "آمریکا",
+    "country_venezuela": "ونزوئلا",
+    "email": "ایمیل",
+    "name": "نام و نام خانوادگی",
+    "password": "رمز عبور"
+  },
+  "song": {
+    "comment_count": "کامنت {count}"
+  },
+  "upload": {
+    "onlyMp3Warning": "شرمنده! این نرم افزار فقط mp3 قبول می کند.",
+    "uploadDropbox": "فایل های خود را اینجا بیاندازید"
+  }
+}

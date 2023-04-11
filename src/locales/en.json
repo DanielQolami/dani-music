@@ -1,0 +1,48 @@
+{
+  "authModal": {
+    "login": "Login",
+    "register": "Register",
+    "topTitle": "Your Account"
+  },
+  "header": {
+    "about": "About",
+    "authBtn": "Login / Register",
+    "logout": "Log out",
+    "manage": "Manage"
+  },
+  "homeView": {
+    "introductionMsg": "This is a Vue project brought to you by Daniel Qolami. The languages used are HTML, CSS, Javascript and  I used Vue JS as the main working framework (w/ vuex, vue router).",
+    "listen": "Listen to Great Music!",
+    "songsHeader": "Songs"
+  },
+  "loginForm": {
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit"
+  },
+  "manageMusic": {
+    "mySongs": "My Songs"
+  },
+  "registerForm": {
+    "TOS": "Terms of Service",
+    "accept": "I accept Music's {0}",
+    "age": "Age",
+    "confPassword": "Confirm password",
+    "country": "Country",
+    "country_germany": "Germany",
+    "country_iran": "Iran",
+    "country_mexico": "Mexico",
+    "country_usa": "USA",
+    "country_venezuela": "Venezuela",
+    "email": "Email",
+    "name": "Name",
+    "password": "Password"
+  },
+  "song": {
+    "comment_count": "No comments | 1 Comment | {count} Comments"
+  },
+  "upload": {
+    "onlyMp3Warning": "Sorry! This app only accepts mp3 files.",
+    "uploadDropbox": "Drop your files here"
+  }
+}
