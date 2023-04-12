@@ -1,6 +1,7 @@
 {
-  "name": "music",
+  "name": "dani-music",
   "version": "0.1.0",
+  "author": "Daniel Qolami <qolamidaniel@gmail.com>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
