@@ -1,6 +1,6 @@
 # dani-music
 
-this is a music player website like soundcloud. the front-end uses vue.js as the main tool and back-end and database is google firebase.
+this is a music player website like soundcloud. the front-end uses vue.js as the main tool. Back-end and Database uses google firebase.
 
 To see the preview of this code, visit [dani-music.vercel.app](https://dani-music.vercel.app/).
 
